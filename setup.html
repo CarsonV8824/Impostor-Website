@@ -1,23 +1,22 @@
 <!DOCTYPE html>
+</html>
 <head>
     <Title>Impostor Website</Title>
     <link rel="stylesheet" href="styles.css">
-    <script src="index.js"></script>
+    <script src="setup.js"></script>
 </head>
 <body>
     <header>
         <div class="WebsiteNameHeader">
             <h1>Carson's Impostors</h1>
         </div>
-
         <div class="Nav">
             <button class="navBtn" onclick="window.location.href='index.html'">home</button>
             <button class="navBtn" onclick="window.location.href='setup.html'">play</button>
         </div>
     </header>
-    <div class="indexContent">
-        <h1>Welcome to Carson's Impostors!</h1>
-        <p>This is a website for the game Carson's Impostors, a multiplayer game where you play as an impostor trying to blend in with the crew of a spaceship. The game is currently in development</p>
+    <div class="gameContent">
+        <input type="text" id="playerCount" placeholder="Player Count">
+        <button class="navBtn" id="startBtn">Start Game</button>
     </div>
 </body>
-</html>
