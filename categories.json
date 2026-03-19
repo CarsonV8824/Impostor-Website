@@ -1,0 +1,84 @@
+{
+  "categories": [
+    {
+      "name": "Animals",
+      "words": ["lion", "penguin", "giraffe", "shark", "eagle", "turtle", "kangaroo", "wolf", "octopus", "bear"]
+    },
+    {
+      "name": "Fruits",
+      "words": ["apple", "banana", "orange", "grape", "kiwi", "mango", "pear", "peach", "plum", "pineapple"]
+    },
+    {
+      "name": "Vegetables",
+      "words": ["carrot", "broccoli", "spinach", "potato", "onion", "pepper", "cucumber", "lettuce", "corn", "tomato"]
+    },
+    {
+      "name": "Countries",
+      "words": ["Japan", "Brazil", "Canada", "France", "Egypt", "India", "Australia", "Mexico", "Germany", "Kenya"]
+    },
+    {
+      "name": "Sports",
+      "words": ["soccer", "basketball", "tennis", "baseball", "golf", "boxing", "swimming", "volleyball", "hockey", "rugby"]
+    },
+    {
+      "name": "Jobs",
+      "words": ["doctor", "teacher", "chef", "pilot", "engineer", "artist", "farmer", "lawyer", "nurse", "mechanic"]
+    },
+    {
+      "name": "Foods",
+      "words": ["pizza", "burger", "sushi", "pasta", "taco", "salad", "steak", "soup", "sandwich", "noodles"]
+    },
+    {
+      "name": "Colors",
+      "words": ["red", "blue", "green", "yellow", "purple", "orange", "pink", "black", "white", "brown"]
+    },
+    {
+      "name": "Vehicles",
+      "words": ["car", "truck", "motorcycle", "bicycle", "boat", "airplane", "train", "helicopter", "scooter", "submarine"]
+    },
+    {
+      "name": "Weather",
+      "words": ["rain", "snow", "sunny", "cloudy", "storm", "windy", "fog", "hail", "thunder", "lightning"]
+    },
+    {
+      "name": "Musical Instruments",
+      "words": ["guitar", "piano", "drums", "violin", "flute", "trumpet", "saxophone", "harp", "cello", "ukulele"]
+    },
+    {
+      "name": "Household Items",
+      "words": ["chair", "table", "lamp", "mirror", "couch", "bed", "clock", "toaster", "broom", "blanket"]
+    },
+    {
+      "name": "Clothing",
+      "words": ["shirt", "pants", "jacket", "hat", "shoes", "socks", "dress", "scarf", "gloves", "shorts"]
+    },
+    {
+      "name": "Emotions",
+      "words": ["happy", "sad", "angry", "excited", "scared", "bored", "proud", "nervous", "confused", "surprised"]
+    },
+    {
+      "name": "Fantasy Creatures",
+      "words": ["dragon", "unicorn", "goblin", "troll", "phoenix", "mermaid", "griffin", "fairy", "giant", "werewolf"]
+    },
+    {
+      "name": "Space",
+      "words": ["planet", "star", "comet", "galaxy", "asteroid", "meteor", "nebula", "spaceship", "orbit", "moon"]
+    },
+    {
+      "name": "Hobbies",
+      "words": ["painting", "reading", "gaming", "cooking", "hiking", "fishing", "dancing", "gardening", "knitting", "photography"]
+    },
+    {
+      "name": "Mythology",
+      "words": ["Zeus", "Thor", "Hercules", "Athena", "Loki", "Ra", "Odin", "Anubis", "Poseidon", "Ares"]
+    },
+    {
+      "name": "Tools",
+      "words": ["hammer", "screwdriver", "wrench", "saw", "drill", "pliers", "tape", "level", "chisel", "axe"]
+    },
+    {
+      "name": "Ocean Life",
+      "words": ["dolphin", "whale", "crab", "jellyfish", "starfish", "seal", "lobster", "coral", "stingray", "seahorse"]
+    }
+  ]
+}
