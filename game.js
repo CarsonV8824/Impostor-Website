@@ -1,6 +1,12 @@
 document.addEventListener("DOMContentLoaded", () => {
 
     // hide the vote button and dropdown untill everyone has seen their words
+
+    const CategoryText = document.getElementById("CategoryText");
+
+
+
+
     const VotePlayer = document.getElementById("voteForPlayer");
     const VoteBtn = document.getElementById("voteBtn");
     VotePlayer.style.display = "none";
@@ -27,6 +33,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     function initializeGame(categoriesData) {
         randomcategory = pickRandomCategory(categoriesData)
+        CategoryText.textContent = `Category: ${randomcategory.name}`;
         
         let categoryName = randomcategory.name;
         let categoryItems = randomcategory.words;
